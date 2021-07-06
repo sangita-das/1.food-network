@@ -130,8 +130,12 @@ color: rgba(228, 131, 41, 0.925);
     
     }
 
-    .half-width text-edit{
+   
+    
+
+    .text-edit{
         justify-content: center;
+        margin-right: 10%;
       
     }
 
