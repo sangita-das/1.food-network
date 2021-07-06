@@ -125,9 +125,12 @@ color: rgba(228, 131, 41, 0.925);
 
     .half-width img{
         width: 70%;
+        padding-top: 4%;
+        padding-bottom: -0%;
+        margin-bottom: -.99%;
         margin-left: 20%;
         box-sizing: border-box;
-    
+
     }
 
    
